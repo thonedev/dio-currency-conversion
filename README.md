@@ -63,7 +63,7 @@ Nesta interface, você poderá:
     "name": "Thone Cardoso",
     "base": "USD",
     "amount": 100.0,
-    "target": "EUR"
+    "target": "BRL"
 }
 ```
 
