@@ -60,7 +60,7 @@ Nesta interface, você poderá:
 **Requisição:**
 ```json
 {
-    "name": "John Doe",
+    "name": "Thone Cardoso",
     "base": "USD",
     "amount": 100.0,
     "target": "EUR"
@@ -72,10 +72,10 @@ Nesta interface, você poderá:
 {
     "amountBase": 100.0,
     "base": "USD",
-    "amountTarget": 92.5,
-    "target": "EUR",
-    "date": "2024-01-01",
-    "name": "John Doe"
+    "amountTarget": 579.87,
+    "target": "BRL",
+    "date": "2025-03-10",
+    "name": "Thone Cardoso"
 }
 ```
 
